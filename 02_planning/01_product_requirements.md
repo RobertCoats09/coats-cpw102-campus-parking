@@ -2,9 +2,9 @@
 
 **Project:** Campus Parking Helper
 
-**Team members:**
+**Team members:** Robert Coats
 
-**Date:**
+**Date:** September 30th 2026
 
 ## User and problem
 
