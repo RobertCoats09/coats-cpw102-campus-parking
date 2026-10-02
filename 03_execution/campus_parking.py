@@ -16,7 +16,7 @@ def main():
     cost = calculate_estimated_parking_cost(parked_hours)
 
     # output
-    print(cost)
+    print("Your parking cost will be/is $" + str(cost))
 
 # call my main function and execute the logic of my program
 main()
